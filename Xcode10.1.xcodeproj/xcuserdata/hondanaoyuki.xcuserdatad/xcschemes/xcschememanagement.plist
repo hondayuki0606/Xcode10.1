@@ -3,11 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict/>
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>Xcode10.1.xcscheme_^#shared#^_</key>
+		<key>AF1370122577E8B500D3DC73</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF1370282577E8B500D3DC73</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF1370332577E8B500D3DC73</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
